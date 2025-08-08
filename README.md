@@ -19,12 +19,6 @@ Features a clean component architecture, smooth animations, and a mobile-first r
 
 ---
 
-## 🖥 Preview
-
-*(Add your screenshot here)*
-
----
-
 ## 🚀 Getting Started
 
 ```bash
